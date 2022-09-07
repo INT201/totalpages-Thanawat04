@@ -1,6 +1,6 @@
 const { template } = require('@babel/core')
 
 function totalPages(arrayItems, rowsPerPage) {
-  //code here
+  //dgsgsgdd
 }
 module.exports = totalPages
